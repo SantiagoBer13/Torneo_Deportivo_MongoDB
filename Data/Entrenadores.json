@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "name": "Carlos Rodríguez",
+      "age": 45,
+      "cc": "1234567890",
+      "tenistas": [1, 2]
+    },
+    {
+      "_id": 2,
+      "name": "María Fernanda Gómez",
+      "age": 38,
+      "cc": "2345678901",
+      "tenistas": [3]
+    },
+    {
+      "_id": 3,
+      "name": "Luis González",
+      "age": 50,
+      "cc": "3456789012",
+      "tenistas": [4]
+    },
+    {
+      "_id": 4,
+      "name": "Ana Martínez",
+      "age": 42,
+      "cc": "4567890123",
+      "tenistas": [5]
+    },
+    {
+      "_id": 5,
+      "name": "Juan Carlos Ramírez",
+      "age": 48,
+      "cc": "5678901234",
+      "tenistas": [6]
+    }
+  ]
+  

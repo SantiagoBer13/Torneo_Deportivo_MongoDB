@@ -1,0 +1,59 @@
+[
+    {
+      "_id": 1,
+      "posicion": "1",
+      "id_tenista": "1",
+      "puntos": "15",
+      "partidos_jugados": "5",
+      "partidos_ganados": "5",
+      "partidos_perdidos": "0"
+    },
+    {
+      "_id": 2,
+      "posicion": "2",
+      "id_tenista": "2",
+      "puntos": "13",
+      "partidos_jugados": "5",
+      "partidos_ganados": "4",
+      "partidos_perdidos": "1"
+    },
+    {
+      "_id": 3,
+      "posicion": "3",
+      "id_tenista": "3",
+      "puntos": "11",
+      "partidos_jugados": "5",
+      "partidos_ganados": "3",
+      "partidos_perdidos": "2"
+    },
+    {
+      "_id": 4,
+      "posicion": "4",
+      "id_tenista": "4",
+      "puntos": "9",
+      "partidos_jugados": "5",
+      "partidos_ganados": "2",
+      "partidos_perdidos": "3"
+    },
+    {
+      "_id": 5,
+      "posicion": "5",
+      "id_tenista": "5",
+      "puntos": "6",
+      "partidos_jugados": "4",
+      "partidos_sin_asistir": "1",
+      "partidos_ganados": "1",
+      "partidos_perdidos": "4"
+    },
+    {
+      "_id": 6,
+      "posicion": "6",
+      "id_tenista": "6",
+      "puntos": "0",
+      "partidos_jugados": "0",
+      "partidos_sin_asistir": "5",
+      "partidos_ganados": "0",
+      "partidos_perdidos": "5"
+    }
+  ]
+  

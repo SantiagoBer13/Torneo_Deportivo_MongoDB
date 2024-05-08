@@ -1,0 +1,156 @@
+[
+  {
+    "_id": 1,
+    "ganador": "Juan Pérez",
+    "perdedor": "Ana Rodríguez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "7:00:00",
+    "id_arbitro": "1"
+  },
+  {
+    "_id": 2,
+    "ganador": "María López",
+    "perdedor": "Carlos Gómez",
+    "resultado_set": "4-2",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "7:00:00",
+    "id_arbitro": "2"
+  },
+  {
+    "_id": 3,
+    "ganador": "Andrés García",
+    "perdedor": "Laura Martínez",
+    "resultado_set": "5-4",
+    "resultado_tiebreak": "7-2",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "7:00:00",
+    "id_arbitro": "3"
+  },
+  {
+    "_id": 4,
+    "ganador": "Juan Pérez",
+    "perdedor": "Carlos Gómez",
+    "resultado_set": "4-1",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "8:00:00",
+    "id_arbitro": "1"
+  },
+  {
+    "_id": 5,
+    "ganador": "María López",
+    "perdedor": "Laura Martínez",
+    "resultado_set": "5-3",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "8:00:00",
+    "id_arbitro": "2"
+  },
+  {
+    "_id": 6,
+    "ganador": "Andrés García",
+    "perdedor": "Ana Rodríguez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "8:00:00",
+    "id_arbitro": "3"
+  },
+  {
+    "_id": 7,
+    "ganador": "Juan Pérez",
+    "perdedor": "Laura Martínez",
+    "resultado_set": "5-4",
+    "resultado_tiebreak": "7-1",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "9:00:00",
+    "id_arbitro": "1"
+  },
+  {
+    "_id": 8,
+    "ganador": "María López",
+    "perdedor": "Andrés García",
+    "resultado_set": "5-4",
+    "resultado_tiebreak": "7-5",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "9:00:00",
+    "id_arbitro": "2"
+  },
+  {
+    "_id": 9,
+    "ganador": "Carlos Gómez",
+    "perdedor": "Ana Rodríguez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "9:00:00",
+    "id_arbitro": "3"
+  },
+  {
+    "_id": 10,
+    "ganador": "Juan Pérez",
+    "perdedor": "Andrés García",
+    "resultado_set": "5-3",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "10:00:00",
+    "id_arbitro": "1"
+  },
+  {
+    "_id": 11,
+    "ganador": "María López",
+    "perdedor": "Ana Rodríguez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "10:00:00",
+    "id_arbitro": "2"
+  },
+  {
+    "_id": 12,
+    "ganador": "Laura Martínez",
+    "perdedor": "Carlos Gómez",
+    "resultado_set": "4-2",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "10:00:00",
+    "id_arbitro": "3"
+  },
+  {
+    "_id": 13,
+    "ganador": "Juan Pérez",
+    "perdedor": "María López",
+    "resultado_set": "5-4",
+    "resultado_tiebreak": "7-5",
+  "estado_del_partido": "Jugado",
+    "fecha": "08-05-2024",
+    "hora": "11:00:00",
+    "id_arbitro": "1"
+  },
+  {
+    "_id": 14,
+    "ganador": "Andrés García",
+    "perdedor": "Carlos Gómez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "11:00:00",
+    "id_arbitro": "2"
+  },
+  {
+    "_id": 15,
+    "ganador": "Laura Martínez",
+    "perdedor": "Ana Rodríguez",
+    "resultado_set": "4-0",
+    "estado_del_partido": "Registrado (no jugado)",
+    "fecha": "08-05-2024",
+    "hora": "11:00:00",
+    "id_arbitro": "3"
+  }
+]

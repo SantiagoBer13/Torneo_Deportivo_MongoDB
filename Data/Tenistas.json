@@ -1,0 +1,80 @@
+[
+  {
+    "_id": 1,
+    "name": "Juan Pérez",
+    "age": 25,
+    "cc": "1234567890",
+    "ranking": "1",
+    "id_coach": 1,
+    "puntos": "15",
+    "partidos_ganados": "5",
+    "partidos_perdidos": "0",
+    "género": "Masculino",
+    "idEncuentros": [1,4,7,10,13]
+  },
+  {
+    "_id": 2,
+    "name": "María López",
+    "age": 28,
+    "cc": "2345678901",
+    "ranking": "2",
+    "id_coach": 1,
+    "puntos": "13",
+    "partidos_ganados": "4",
+    "partidos_perdidos": "1",
+    "género": "Femenino",
+    "idEncuentros": [2,5,8,11,13]
+  },
+  {
+    "_id": 3,
+    "name": "Andrés García",
+    "age": 30,
+    "cc": "3456789012",
+    "ranking": "3",
+    "id_coach": 2,
+    "puntos": "11",
+    "partidos_ganados": "3",
+    "partidos_perdidos": "2",
+    "género": "Masculino",
+    "idEncuentros": [3,6,7,10,14]
+  },
+  {
+    "_id": 4,
+    "name": "Laura Martínez",
+    "age": 27,
+    "cc": "4567890123",
+    "ranking": "4",
+    "id_coach": 3,
+    "puntos": "9",
+    "partidos_ganados": "2",
+    "partidos_perdidos": "3",
+    "género": "Femenino",
+    "idEncuentros": [3,5,7,12,15]
+  },
+  {
+    "_id": 5,
+    "name": "Carlos Gómez",
+    "age": 32,
+    "cc": "5678901234",
+    "ranking": "5",
+    "id_coach": 4,
+    "puntos": "6",
+    "partidos_ganados": "1",
+    "partidos_perdidos": "4",
+    "género": "Masculino",
+    "idEncuentros": [2,4,9,12,14]
+  },
+  {
+    "_id": 6,
+    "name": "Ana Rodríguez",
+    "age": 29,
+    "cc": "6789012345",
+    "ranking": "6",
+    "id_coach": 5,
+    "puntos": "0",
+    "partidos_ganados": "0",
+    "partidos_perdidos": "5",
+    "género": "Femenino",
+    "idEncuentros": [1,6,9,11,15]
+  }
+]

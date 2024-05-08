@@ -1,0 +1,21 @@
+[
+    {
+      "_id": 1,
+      "name": "Pedro Martínez",
+      "age": 40,
+      "partidos_arbitrados": 5
+    },
+    {
+      "_id": 2,
+      "name": "Laura Gómez",
+      "age": 35,
+      "partidos_arbitrados": 5
+    },
+    {
+      "_id": 3,
+      "name": "Jorge Pérez",
+      "age": 45,
+      "partidos_arbitrados": 5
+    }
+  ]
+  
